@@ -29,4 +29,3 @@ return {
   ["editorconfig/editorconfig-vim"] = {},
   ["ctrlpvim/ctrlp.vim"] = {},
 }
--- https://github.com/ctrlpvim/ctrlp.vimこれ入れてキーバインドをctrl+shift+pにしました
