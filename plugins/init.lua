@@ -28,4 +28,6 @@ return {
   ["Shougo/neocomplcache"] = {},
   ["editorconfig/editorconfig-vim"] = {},
   ["ctrlpvim/ctrlp.vim"] = {},
+  ["mhinz/vim-grepper"] = {},
+  ["ludovicchabant/vim-gutentags"] = {},
 }
