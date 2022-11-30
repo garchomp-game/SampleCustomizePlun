@@ -1,0 +1,18 @@
+return {
+  "sqlls",
+  "vue-language-server",
+  "intelephense",
+  "php-debug-adapter",
+  "blade-formatter",
+  "lua-language-server",
+  "bash-debug-adapter",
+  "bash-language-server",
+  "css-lsp",
+  "html-lsp",
+  "js-debug-adapter",
+  "json-lsp",
+  "shellcheck",
+  "shfmt",
+  "stylua",
+  "vim-language-server",
+}
