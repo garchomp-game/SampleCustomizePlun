@@ -27,4 +27,6 @@ return {
   ["vim-jp/vimdoc-ja"] = {},
   ["Shougo/neocomplcache"] = {},
   ["editorconfig/editorconfig-vim"] = {},
+  ["ctrlpvim/ctrlp.vim"] = {},
 }
+-- https://github.com/ctrlpvim/ctrlp.vimこれ入れてキーバインドをctrl+shift+pにしました

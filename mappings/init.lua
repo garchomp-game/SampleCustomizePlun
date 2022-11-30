@@ -7,6 +7,10 @@ M.custom = {
 		-- 		"<cmd> NvimTreeToggle"
 		-- 		"comment"
 		-- 	}
+    ["<C-S-p>"] = {
+      ":Clip",
+      "open ctrlp"
+    }
 	}
 }
 return M
