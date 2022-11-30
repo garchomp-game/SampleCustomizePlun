@@ -5,7 +5,7 @@ local lspconfig = require "lspconfig"
 -- add server name.
 -- example
 --  local servers = {"html", "cssls"}
-local servers = {}
+local servers = {"html", "cssls"}
 
 for _, lsp in ipairs(servers) do
   lspconfig[lsp].setup {
