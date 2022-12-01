@@ -9,7 +9,6 @@ return {
       require "custom.plugins.configs.lspconfig"
     end,
   },
-  ["kana/vim-tabpagecd"] = {},
   ["williamboman/mason.nvim"] = {
     override_options = {
       ensure_installed = 
@@ -22,6 +21,7 @@ return {
         require "custom.plugins.override.treesitter-setup"
     }
   },
+  ["kana/vim-tabpagecd"] = {},
   ["kyazdani42/nvim-tree.lua"] = false,
   ["preservim/nerdtree"] = {},
   ["vim-jp/vimdoc-ja"] = {},
@@ -29,5 +29,4 @@ return {
   ["editorconfig/editorconfig-vim"] = {},
   ["ctrlpvim/ctrlp.vim"] = {},
   ["mhinz/vim-grepper"] = {},
-  ["ludovicchabant/vim-gutentags"] = {},
 }
